@@ -5,12 +5,12 @@ import streamlit as st
 from navigation import make_sidebar
 import streamlit as st
 
-make_sidebar()
 alt.data_transformers.disable_max_rows()
 st.set_page_config(
     page_title = "Global ofertes cardíaques",
     layout = "wide"
 )
+make_sidebar()
 
 st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 st.write("# Global ofertes cardíaques")
