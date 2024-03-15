@@ -7,7 +7,7 @@ st.set_page_config(
     page_title = "Procedència donants ofertes cardiaques",
     layout = "wide"
 )
-
+make_sidebar()
 st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 st.write("# Procedència donants ofertes cardiaques")
 
