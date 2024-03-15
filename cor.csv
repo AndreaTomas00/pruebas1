@@ -1,0 +1,203 @@
+﻿UCIO;DATA;TIPUS;ORGANITZACIO;HOSPI PROCEDENCIA;HOSPI TX;PROCEDENCIA;RESULTAT;URGENCIA;MOTIU REBUIG
+1;2/1/23;DAC;OCATT;HCP;HCP;Propi;Acceptat i trasplantat;Electiu;
+11;5/1/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+11;5/1/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+11;5/1/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+15;7/1/23;ME;ONT;BALEARS;BLLV;ONT;Acceptat i trasplantat;Electiu;
+16;7/1/23;DAC;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+16;7/1/23;DAC;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+16;7/1/23;DAC;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+18;9/1/23;ME;OCATT;HCP;HCP;Propi;Acceptat i trasplantat;Urg 1;
+34;17/1/23;ME;OCATT;HCP;HCP;Propi;Acceptat i trasplantat;Electiu;
+41;19/1/23;ME;OCATT;POOL;ONT;Pool OCATT;No acceptat i trasplantat;Urg 0;Alteració ecocardio/cateterisme
+41;19/1/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;Acceptat i trasplantat;Electiu;
+42;19/1/23;DAC;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Electiu;Problemes amb el candidat a receptor
+42;19/1/23;DAC;ONT;ONT;VHMI;Propi;No acceptat i no trasplantat;Urg 1;Temps d'isquèmia/Distància
+50;22/1/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+54;26/1/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 0;
+60;31/1/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+78;6/2/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
+88;9/2/23;DAC;OCATT;POOL;BLLV;Pool OCATT;Acceptat i no trasplantat;Electiu;
+91;11/2/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Urg 0;Altres causes
+92;12/2/23;ME;OCATT;BLLV;HCP;Pool OCATT;No acceptat i no trasplantat;Urg 0;Alteració analítica
+92;12/2/23;ME;OCATT;BLLV;ONT;Pool OCATT;No acceptat i no trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+101;16/2/23;ME;OCATT;POOL;HCP;Pool OCATT;Acceptat i trasplantat;Urg 0;
+101;16/2/23;ME;OCATT;POOL;ONT;Pool OCATT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+108;19/2/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+110;19/2/23;ME;ONT;BALEARS;VHMI;ONT;No acceptat i trasplantat;Urg 0;No disponibilitat logística
+113;20/2/23;DAC;OCATT;POOL;BLLV;Pool OCATT;Acceptat i trasplantat;Electiu;
+144;3/3/23;DAC;OCATT;POOL;BLLV;Pool OCATT;Acceptat i trasplantat;Electiu;
+144;3/3/23;DAC;OCATT;POOL;HCP;Pool OCATT;No acceptat i trasplantat;Electiu;Problemes amb el candidat a receptor
+149;5/3/23;DAC;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;No disponibilitat logística
+149;5/3/23;DAC;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Antecedents
+153;6/3/23;ME;ONT;ONT;SANT PAU;ONT;Acceptat i trasplantat;Urg 0;
+159;8/3/23;DAC;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+159;8/3/23;DAC;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+159;8/3/23;DAC;OCATT;POOL;ONT;Pool OCATT;No acceptat i no trasplantat;Electiu;Edat del donant
+163;9/3/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+174;12/3/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i trasplantat;Electiu;Antecedents
+174;12/3/23;ME;OCATT;POOL;ONT;Pool OCATT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+174;12/3/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;Acceptat i no trasplantat;Electiu;
+185;15/3/23;ME;OCATT;HCP;BLLV;Pool OCATT;Acceptat i trasplantat;Electiu;
+185;15/3/23;ME;OCATT;HCP;HCP;Propi;No acceptat i trasplantat;Electiu;Diferència de talla/pes amb el receptor
+185;15/3/23;ME;OCATT;HCP;ONT;Pool OCATT;No acceptat i trasplantat;Urg 0;Alteració analítica
+185;15/3/23;ME;OCATT;HCP;SANT PAU;Pool OCATT;No acceptat i trasplantat;Urg 1;Problemes amb el candidat a receptor
+194;20/3/23;DAC;OCATT;VHMI;VHMI;Propi;Acceptat i trasplantat;Urg 0;
+195;20/3/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Urg 1;Antecedents
+203;21/3/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Electiu;Diferència de talla/pes amb el receptor
+204;22/3/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Electiu;Temps d'isquèmia/Distància
+206;22/3/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+207;22/3/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+211;24/3/23;ME;ONT;ONT;HCP;ONT;Acceptat i trasplantat;Urg 0;
+212;24/3/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+216;25/3/23;ME;ONT;ONT;SANT PAU;ONT;Acceptat i trasplantat;Urg 0;
+220;27/3/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;Acceptat i trasplantat;Urg 1;
+231;30/3/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+235;1/4/23;ME;OCATT;SANT PAU;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+235;1/4/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
+239;3/4/23;ME;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Urg 1;Temps d'isquèmia/Distància
+239;3/4/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+239;3/4/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+239;3/4/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Urg 1;Alteració analítica
+239;3/4/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Electiu;Alteració analítica
+246;5/4/23;ME;ONT;ONT;HCP;ONT;Acceptat i trasplantat;Urg 0;
+249;5/4/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+259;10/4/23;ME;OCATT;HCP;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+259;10/4/23;ME;OCATT;HCP;HCP;Propi;No acceptat i no trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+259;10/4/23;ME;OCATT;HCP;HCP;Propi;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+259;10/4/23;ME;OCATT;HCP;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+272;14/4/23;ME;OCATT;POOL;HCP;Pool OCATT;Acceptat i trasplantat;Urg 0;
+277;17/4/23;ME;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Electiu;Altres causes
+277;17/4/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+282;20/4/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i trasplantat;Urg 1;Manca de proves (coronariografia)
+282;20/4/23;ME;OCATT;POOL;ONT;Pool OCATT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+282;20/4/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;Acceptat i trasplantat;Electiu;
+312;2/5/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
+312;2/5/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+312;2/5/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
+313;2/5/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+321;7/5/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+326;11/5/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Electiu;Problemes amb el candidat a receptor
+326;11/5/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+329;13/5/23;ME;OCATT;POOL;ONT;Pool OCATT;Acceptat i trasplantat;Urg 0;
+332;13/5/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+345;16/5/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Alteració ecocardio/cateterisme
+347;16/5/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Electiu;Un altre equip accepta abans
+349;17/5/23;ME;ONT;BALEARS;BLLV;ONT;Acceptat i no trasplantat;Electiu;
+349;17/5/23;ME;ONT;BALEARS;VHMI;ONT;No acceptat i no trasplantat;Urg 1;Antecedents
+362;21/5/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Electiu;
+363;22/5/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 1;
+367;25/5/23;ME;OCATT;BLLV;ONT;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+381;28/5/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+381;28/5/23;ME;OCATT;POOL;HCP;Pool OCATT;Acceptat i trasplantat;Electiu;
+381;28/5/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+389;1/6/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+390;1/6/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 0;
+392;4/6/23;ME;OCATT;POOL;VHMI;Pool OCATT;Acceptat i trasplantat;Urg 1;
+408;10/6/23;DAC;OCATT;HCP;HCP;Propi;Acceptat i no trasplantat;Electiu;
+416;14/6/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i no trasplantat;Urg 1;Crossmatch positiu
+424;17/6/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+425;17/6/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+425;17/6/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+425;17/6/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+439;22/6/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+446;26/6/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+453;28/6/23;ME;OCATT;HCP;HCP;Propi;Acceptat i trasplantat;Urg 0;
+455;28/6/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+455;28/6/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 0;Temps d'isquèmia/Distància
+456;28/6/23;ME;OCATT;BLLV;BLLV;Propi;No acceptat i no trasplantat;Electiu;Problemes amb el candidat a receptor
+456;28/6/23;ME;OCATT;BLLV;SANT PAU;Pool OCATT;Acceptat i trasplantat;Electiu;
+462;30/6/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Un altre equip accepta abans
+468;3/7/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+471;4/7/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+475;5/7/23;ME;OCATT;SANT PAU;HCP;Pool OCATT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+475;5/7/23;ME;OCATT;SANT PAU;ONT;Pool OCATT;Acceptat i trasplantat;Urg 0;
+475;5/7/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i trasplantat;Urg 1;Manca de receptor compatible
+477;5/7/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Temps d'isquèmia/Distància
+479;6/7/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+480;6/7/23;ME;OCATT;SANT PAU;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;No disponibilitat logística
+480;6/7/23;ME;OCATT;SANT PAU;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Antecedents
+480;6/7/23;ME;OCATT;SANT PAU;ONT;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+480;6/7/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i no trasplantat;Electiu;Antecedents
+481;6/7/23;ME;OCATT;SANT PAU;SANT PAU;Propi;Acceptat i trasplantat;Electiu;
+486;10/7/23;ME;OCATT;HCP;VHMI;Pool OCATT;Acceptat i trasplantat;Urg 0;
+487;11/7/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Un altre equip accepta abans
+492;12/7/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+492;12/7/23;DAC;OCATT;BLLV;VHMI;Pool OCATT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+498;13/7/23;ME;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+498;13/7/23;ME;OCATT;BLLV;VHMI;Pool OCATT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+501;13/7/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+502;14/7/23;ME;ONT;BALEARS;BLLV;ONT;No acceptat i no trasplantat;Electiu;No disponibilitat logística
+502;14/7/23;ME;ONT;BALEARS;HCP;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+502;14/7/23;ME;ONT;BALEARS;SANT PAU;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+506;16/7/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
+511;18/7/23;DAC;OCATT;BLLV;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+515;19/7/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+518;21/7/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 0;Alteració analítica
+537;27/7/23;ME;ONT;ONT;SANT PAU;ONT;Acceptat i no trasplantat;Electiu;
+548;1/8/23;ME;OCATT;POOL;VHMI;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+548;1/8/23;ME;OCATT;POOL;VHMI;Pool OCATT;No acceptat i no trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+561;3/8/23;ME;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+566;4/8/23;DAC;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Urg 0;Temps d'isquèmia/Distància
+568;5/8/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+590;12/8/23;ME;ONT;BALEARS;VHMI;ONT;No acceptat i trasplantat;Urg 1;Diferència de talla/pes amb el receptor
+592;13/8/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 0;
+606;18/8/23;ME;OCATT;SANT PAU;SANT PAU;Propi;No acceptat i trasplantat;Urg 1;Crossmatch positiu
+606;18/8/23;ME;OCATT;SANT PAU;VHMI;Pool OCATT;Acceptat i trasplantat;Urg 1;
+627;26/8/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;No disponibilitat logística
+627;26/8/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de proves (coronariografia)
+627;26/8/23;ME;OCATT;POOL;ONT;Pool OCATT;No acceptat i no trasplantat;Urg 0;Edat del donant
+627;26/8/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de proves (coronariografia)
+628;27/8/23;ME;ONT;ONT;VHMI;ONT;Acceptat i trasplantat;Urg 0;
+632;29/8/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+632;29/8/23;DAC;OCATT;BLLV;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Altres causes
+648;3/9/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+649;3/9/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Problemes amb el candidat a receptor
+661;8/9/23;ME;ONT;ONT;BLLV;ONT;No acceptat i no trasplantat;Urg 1;Edat del donant
+665;11/9/23;ME;OCATT;POOL;ONT;Pool OCATT;Acceptat i trasplantat;Urg 0;
+668;12/9/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Antecedents
+671;14/9/23;ME;ONT;ONT;SANT PAU;ONT;Acceptat i trasplantat;Urg 0;
+673;15/9/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+675;16/9/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Temps d'isquèmia/Distància
+693;22/9/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;Acceptat i trasplantat;Electiu;
+715;29/9/23;ME;ONT;ONT;HCP;ONT;No acceptat i trasplantat;Electiu;Temps d'isquèmia/Distància
+728;4/10/23;ME;ONT;ONT;BLLV;ONT;No acceptat i trasplantat;Urg 1;Altres causes
+731;5/10/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 0;Antecedents
+732;5/10/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i trasplantat;Urg 1;Un altre equip accepta abans
+740;9/10/23;ME;OCATT;VHMI;ONT;Pool OCATT;Acceptat i trasplantat;Urg 0;
+745;14/10/23;ME;OCATT;HCP;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Diferència de talla/pes amb el receptor
+745;14/10/23;ME;OCATT;HCP;HCP;Propi;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+745;14/10/23;ME;OCATT;HCP;ONT;Pool OCATT;No acceptat i no trasplantat;Urg 0;Edat del donant
+745;14/10/23;ME;OCATT;HCP;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+751;16/10/23;ME;OCATT;SANT PAU;VHMI;Pool OCATT;Acceptat i trasplantat;Electiu;
+756;18/10/23;ME;OCATT;POOL;BLLV;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+756;18/10/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+756;18/10/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+764;22/10/23;ME;OCATT;POOL;HCP;Pool OCATT;No acceptat i trasplantat;Urg 0;Diferència de talla/pes amb el receptor
+764;22/10/23;ME;OCATT;POOL;SANT PAU;Pool OCATT;No acceptat i trasplantat;Urg 1;Altres causes
+764;22/10/23;ME;OCATT;POOL;VHMI;Pool OCATT;No acceptat i trasplantat;Urg 1;Edat del donant
+772;25/10/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+778;26/10/23;ME;ONT;ONT;HCP;ONT;No acceptat i no trasplantat;Urg 0;Alteració ecocardio/cateterisme
+778;26/10/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Urg 1;Antecedents
+805;5/11/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 0;
+825;12/11/23;ME;ONT;BALEARS;BLLV;ONT;No acceptat i no trasplantat;Urg 1;Manca de proves (coronariografia)
+825;12/11/23;ME;ONT;BALEARS;BLLV;ONT;No acceptat i no trasplantat;Urg 1;Manca de proves (coronariografia)
+831;15/11/23;ME;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+834;16/11/23;DAC;OCATT;POOL;BLLV;Pool OCATT;Acceptat i trasplantat;Urg 1;
+844;21/11/23;ME;ONT;BALEARS;VHMI;ONT;Acceptat i trasplantat;Urg 1;
+849;24/11/23;DAC;OCATT;BLLV;BLLV;Propi;No acceptat i trasplantat;Electiu;Manca de receptor compatible
+849;24/11/23;DAC;OCATT;BLLV;HCP;Pool OCATT;Acceptat i trasplantat;Electiu;
+853;26/11/23;DAC;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+854;27/11/23;ME;ONT;ONT;HCP;ONT;Acceptat i trasplantat;Urg 0;
+859;28/11/23;ME;OCATT;HCP;HCP;Propi;No acceptat i no trasplantat;Electiu;Alteració ecocardio/cateterisme
+866;30/11/23;ME;OCATT;BLLV;BLLV;Propi;Acceptat i trasplantat;Electiu;
+887;8/12/23;ME;ONT;ONT;HCP;ONT;Acceptat i trasplantat;Electiu;
+887;8/12/23;ME;ONT;ONT;SANT PAU;ONT;No acceptat i trasplantat;Electiu;Antecedents
+900;14/12/23;ME;ONT;ONT;BLLV;ONT;Acceptat i trasplantat;Urg 1;
+902;15/12/23;DAC;OCATT;HCP;HCP;Propi;Acceptat i trasplantat;Electiu;
+903;15/12/23;ME;OCATT;POOL;BLLV;Pool OCATT;Acceptat i no trasplantat;Electiu;
+937;24/12/23;ME;OCATT;POOL;ONT;Pool OCATT;Acceptat i trasplantat;Urg 0;
+938;24/12/23;ME;ONT;ONT;VHMI;ONT;No acceptat i trasplantat;Urg 1;Edat del donant
+946;27/12/23;ME;OCATT;HCP;ONT;Pool OCATT;Acceptat i no trasplantat;Electiu;
+946;27/12/23;ME;OCATT;HCP;ONT;Pool OCATT;No acceptat i no trasplantat;Electiu;Manca de receptor compatible
+954;28/12/23;ME;ONT;ONT;VHMI;ONT;No acceptat i no trasplantat;Urg 1;Alteració ecocardio/cateterisme
