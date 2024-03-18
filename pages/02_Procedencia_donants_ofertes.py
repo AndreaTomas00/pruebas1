@@ -2,6 +2,7 @@ import pandas as pd
 import csv
 import altair as alt
 import streamlit as st
+from navigation import make_sidebar
 alt.data_transformers.disable_max_rows()
 st.set_page_config(
     page_title = "Procedència donants ofertes cardiaques",
