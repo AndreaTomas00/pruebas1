@@ -10,6 +10,7 @@ st.set_page_config(
     page_title = "Ofertes global",
     layout = "wide"
 )
+st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 make_sidebar()
 
 st.write("# Global ofertes cardíaques")
