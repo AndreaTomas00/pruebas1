@@ -6,13 +6,9 @@ from navigation import make_sidebar
 import streamlit as st
 
 alt.data_transformers.disable_max_rows()
-st.set_page_config(
-    #page_title = "Global ofertes cardíaques",
-    layout = "wide"
-)
+
 make_sidebar()
 
-#st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 st.write("# Global ofertes cardíaques")
 
 data = pd.read_csv("cor.csv", sep=";", header=0, quoting=csv.QUOTE_NONE,index_col=False, on_bad_lines="warn")
