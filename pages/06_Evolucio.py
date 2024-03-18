@@ -82,5 +82,5 @@ total = (chart+text_propis).configure_axis(
     titleFontSize=20).configure_title( fontSize=28)
 st.write("# Total urgències 0")
 st.altair_chart(total)
-st.write('ONT-Adults i ONT-Infantil no inclouen les Urgències 0 de l'OCATT')
+st.write("ONT-Adults i ONT-Infantil no inclouen les Urgències 0 de l'OCATT")
 
