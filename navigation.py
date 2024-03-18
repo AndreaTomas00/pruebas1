@@ -16,7 +16,7 @@ def get_current_page_name():
 
 def make_sidebar():
     with st.sidebar:
-        st.title("💎 Diamond Corp")
+        st.title("Dades tx cardíac 2023")
         st.write("")
         st.write("")
 
