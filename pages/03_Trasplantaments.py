@@ -8,7 +8,7 @@ st.set_page_config(
     page_title = "Global trasplataments cardíacs",
     layout = "wide"
 )
-
+make_sidebar()
 st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 st.write("# Global trasplataments cardíacs")
 
