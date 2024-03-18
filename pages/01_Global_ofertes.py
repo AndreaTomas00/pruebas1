@@ -7,7 +7,7 @@ import streamlit as st
 
 alt.data_transformers.disable_max_rows()
 st.set_page_config(
-    page_title = "Global ofertes cardíaques",
+    #page_title = "Global ofertes cardíaques",
     layout = "wide"
 )
 make_sidebar()
