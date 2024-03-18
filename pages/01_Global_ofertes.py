@@ -6,7 +6,10 @@ from navigation import make_sidebar
 import streamlit as st
 
 alt.data_transformers.disable_max_rows()
-
+st.set_page_config(
+    page_title = "Ofertes global",
+    layout = "wide"
+)
 make_sidebar()
 
 st.write("# Global ofertes cardíaques")
