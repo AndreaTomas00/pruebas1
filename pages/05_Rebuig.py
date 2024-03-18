@@ -2,11 +2,13 @@ import pandas as pd
 import csv
 import altair as alt
 import streamlit as st
+from navigation import make_sidebar
 alt.data_transformers.disable_max_rows()
 st.set_page_config(
     page_title = "Motius rebuig",
     layout = "wide"
 )
+make_sidebar()
 st.sidebar.markdown("# Motius rebuig ")
 st.markdown(" <style> div[class^='block-container'] { padding-top: 2rem; } </style> ", unsafe_allow_html=True)
 
