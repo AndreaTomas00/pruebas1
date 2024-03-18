@@ -4,9 +4,9 @@ from navigation import make_sidebar
 
 make_sidebar()
 
-st.title("Dades trasplantament cardíac 2023 - OCATT")
+st.title("Dades trasplantament cardíac 2023 OCATT")
 
-st.write("Inicia sessió per poder veure la informació).")
+st.write("Inicia sessió per poder veure la informació.")
 
 username = st.text_input("Username")
 password = st.text_input("Password", type="password")
