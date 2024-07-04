@@ -12,7 +12,7 @@ username = st.text_input("Username")
 password = st.text_input("Password", type="password")
 
 if st.button("Log in", type="primary"):
-    if username == "cardiac2023" and password == "Jt5$Pq":
+    if username == "cardiac2023" and password == "cor2023":
         st.session_state.logged_in = True
         st.success("Logged in successfully!")
         sleep(0.5)
